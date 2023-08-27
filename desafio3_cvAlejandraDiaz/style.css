@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: var(font-family);
+}
+
+header {
+    background-color:#E6E6E6 ;
+    padding: 10px;
+    text-align: center;
+}
+
+#foto {
+    border-radius: 50%;
+    width: 100px;
+    height: 150px;   
+}
+/* h1_titulo curriculum vitae */
+.container{
+    color: #005677;
+    font-family: Times New Roman;
+    font-size: 20px;
+    background-color: #C4C4C4;
+    height: 50px;
+    top: 188px;
+    text-align: center;
+    letter-spacing: 10px;
+    padding: 10px; 
+}
+
+h2{
+    color: #005677;
+    background-color: #C4C4C4;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+
+#ppal {
+    font-style: italic;
+    font-weight: bold;
+    }
+
+#form {
+    font-style: italic;
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+.flexear {
+    display: flex;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 37px;
+    background: #005677;
+    color: #FFF;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    padding-top: 11px;
+    padding-bottom: 9px;
+    gap: 26px;
+    margin-top: 50px;
+}
+#personales{
+    margin-top: 50px;
+}
+.datos{
+    padding:  20px;
+}
+h3{
+    margin-left: 20px;
+}
